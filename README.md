@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dheeraj-Kona
-- 👀 I’m interested in ...Computer Science ,Tech,Science And Video Games
+- 👀 I’m interested in ...Application Development In Android Devlopment, Problem Solving Using Java.
 - 📫 How to reach me ...@dheerajkona99@gmail.com
 
 ## Technologies :
